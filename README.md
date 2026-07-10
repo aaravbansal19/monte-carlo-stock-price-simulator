@@ -19,6 +19,6 @@ Technologies Used:
 - Statistics Library
 - Random Library
 
-Output : The program first prints out the starting information which includes the starting price, number of trading days, and number of simulations. The program then generates the statistical report including the average, median, highest, lowest, standard deviation, and the amount of stocks above and below the starting price. Then, the program prints out a probability report, showing the percent chance of the stock making profit, loss, staying the same, gaining 10%, gaining 20%, losing 10%, and losing 20%. 
+Output: The program first prints out the starting information which includes the starting price, number of trading days, and number of simulations. The program then generates the statistical report including the average, median, highest, lowest, standard deviation, and the amount of simulations above and below the starting price. Then, the program prints out a probability report, showing the percent chance of the stock making profit, loss, staying the same, gaining 10%, gaining 20%, losing 10%, and losing 20%. 
 
-Purpose : This project focuses on probability, statistics, and financial modeling concepts used in quantitative finance. 
+Purpose: This project focuses on probability, statistics, and financial modeling concepts used in quantitative finance. 
